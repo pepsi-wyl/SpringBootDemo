@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TEST</title>
+</head>
+<body>
+
+<!--获取 get-->
+<form action="/restController/user" method="get">
+    <input value="REST-GET" type="submit">
+</form>
+
+<!--保存 post-->
+<form action="/restController/user" method="post">
+    <input value="REST-POST" type="submit">
+</form>
+
+<!--删除 DELETE-->
+<form action="/restController/user" method="post">
+    <!--<input name="_method" type="hidden" value="DELETE">-->
+    <!--修改TEST的默认配置  defaultMethodParam="_method"-->
+    <input name="method" type="hidden" value="DELETE">
+    <input value="REST-DELETE" type="submit">
+</form>
+
+<!--修改 PUT-->
+<form action="/restController/user" method="post">
+    <!--<input name="_method" type="hidden" value="PUT">-->
+    <!--修改TEST的默认配置  defaultMethodParam="_method"-->
+    <input name="method" type="hidden" value="PUT">
+    <input value="REST-PUT" type="submit">
+</form>
+
+</body>
+</html>

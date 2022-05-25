@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Sign up</title>
+    <!-- Bootstrap core CSS -->
+    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link th:href="@{/css/signin.css}" rel="stylesheet">
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js"></script>
+
+    <script>
+        $(function () {
+            //获取dom对象
+            let username = $("#username");
+            let email = $("#email");
+            let buttonEmail = $("#buttonEmail");
+            let submitBtn = $("#submitBtn");
+
+            /**
+             * 判断username是否存在
+             */
+            username.bind("blur", function () {
+                $.ajax({
+                    type: "GET",  //请求类型
+                    url: "/wyl/user/userIsExit",      //请求的url
+                    data: {username: username.val()}, //请求参数
+                    dataType: "json",  //ajax接口（请求url）返回的数据类型
+                    success: function (data) {//data：返回数据（json对象）
+                        if (data === true) {
+                            submitBtn.attr("disabled", true);
+                            alert("用户名已经存在");
+                        } else if (data === false) {
+                            submitBtn.attr("disabled", false);
+                        }
+                    },
+                });
+            });
+
+            /**
+             *发送按钮可以点击
+             */
+            let flag = true;
+
+            //判断email是否存在
+            email.bind("blur", function () {
+                $.ajax({
+                    type: "GET",  //请求类型
+                    url: "/wyl/user/emailIsExit",      //请求的url
+                    data: {email: email.val()}, //请求参数
+                    dataType: "json",  //ajax接口（请求url）返回的数据类型
+                    success: function (data) {//data：返回数据（json对象）
+                        if (data === true) {
+                            alert("该邮箱已经注册 如果忘记密码请尝试修改密码");
+                            buttonEmail.attr("disabled", true);
+                            submitBtn.attr("disabled", true);
+                        } else if (data === false) {
+                            if (flag === true) {  //解决发送验证码期间发送按键解除
+                                buttonEmail.attr("disabled", false);
+                                submitBtn.attr("disabled", false);
+                            }
+                        }
+                    },
+                });
+            });
+
+            /**
+             * 发送验证码
+             */
+            buttonEmail.bind("click", function () {
+                flag = false;
+                //定时器效果
+                let time = 60;  // 定义剩下的秒数
+                buttonEmail.attr("disabled", true);
+                let timer = setInterval(function () {
+                    if (time === 0) {
+                        // 清除定时器和复原按钮
+                        clearInterval(timer);
+                        buttonEmail.attr("disabled", false);
+                        flag = true;
+                        buttonEmail.html('发送验证码');
+                        time = 60;       // 重新赋值时间变量
+                    } else {
+                        buttonEmail.html(time + '秒后可再次发送');
+                        time--;
+                    }
+                }, 1000);
+                //ajax发送验证码
+                $.ajax({
+                    type: "GET",  //请求类型
+                    url: "/wyl/emailCpacha",      //请求的url
+                    data: {email: email.val(), doThing: "Register"},   //请求参数
+                    dataType: "json",  //ajax接口（请求url）返回的数据类型
+                    success: function (data) {//data：返回数据（json对象）
+                        if (data === true) {
+                            alert("验证码发送成功请注意查收");
+                        }
+                    },
+                });
+            });
+
+            //两次密码比较
+            let password = $("#password");
+            let repassword = $("#repassword");
+            repassword.bind("blur", function () {
+                console.log(repassword.val());
+                console.log(password.val());
+                if (repassword.val() !== password.val()) {
+                    alert("两次密码不一致");
+                    submitBtn.attr("disabled", true);
+                } else {
+                    submitBtn.attr("disabled", false);
+                }
+            });
+
+        });
+    </script>
+
+</head>
+
+<body class="text-center">
+
+<form class="form-signin" th:action="@{/user/register}" method="post">
+
+    <h1 class="h3 mb-3 font-weight-normal">Sign up</h1>
+
+    <input type="text" class="form-control" id="username" name="username" placeholder="用户名" required="" autofocus="">
+
+    <input type="email" class="form-control" id="email" name="email" placeholder="邮箱" required="">
+    <button class="btn btn-lg btn-danger btn-block" id="buttonEmail" type="button">发送验证码</button>
+    <input type="text" class="form-control" name="emailCode" placeholder="验证码" required="">
+
+    <input type="password" class="form-control" id="password" name="password" placeholder="密码" required="">
+    <input type="password" class="form-control" id="repassword" name="repassword" placeholder="确认密码" required="">
+
+    <div class="checkbox mb-3" style="margin-top: 10px">
+        <label>
+            <input type="checkbox" value="register" required="">注册即表示您同意并愿意遵守 <br/>
+            <a class="btn btn-sm " href="#">用户协议</a>与
+            <a class="btn btn-sm " href="#">隐私政策</a>
+        </label>
+    </div>
+
+    <button class="btn btn-lg btn-primary btn-block" id="submitBtn" type="submit">注册</button>
+
+    <!--登陆-->
+    <div class="bottom-text">
+        <a class="btn btn-sm " th:href="@{/}">Log In</a>
+    </div>
+
+    <p class="mt-5 mb-3 text-muted">© 2021-2022 design by wyl</p>
+
+</form>
+</body>
+</html>

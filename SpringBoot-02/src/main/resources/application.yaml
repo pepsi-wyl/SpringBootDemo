@@ -1,0 +1,82 @@
+####属性配置####
+pet:
+  name: Tomcat
+
+person:
+  #String     松散绑定  - 后面跟着的字母默认是大写的
+  user-name: zhazha
+
+  #Boolean
+  boss: true
+
+  #Date
+  birth: 2001/03/17
+
+  #Integer  编写占位符生成随机数
+  age: ${random.int}
+
+  #Object  复杂类型封装  对象
+  pet:
+    name: Tomcat
+
+  #Array
+  #interests: [篮球，足球]
+  interests:
+    - 篮球
+    - 足球
+
+  #List
+  animal: [ 猫，狗 ]
+
+  #Map
+  #score: {english:80,math:90}
+  score:
+    english: 80
+    math: 90
+
+  #Set
+  salarys:
+    - 9999.99
+    - 9999.98
+
+  #MapList
+  allPets:
+    sick:
+      - { name: 阿猫 }
+      - name: 阿狗
+    health: [ { name: dog },{ name: cat } ]
+####属性配置####
+
+
+#配置服务器IP和端口号
+server:
+  address: 127.0.0.1
+  port: 80
+
+spring:
+
+  #mvc配置
+  mvc:
+    #添加前缀 默认为/**
+    #static-path-pattern: /static/**
+
+    #启动REST风格   客户端选择性开启
+    hiddenmethod:
+      #拦截 _method(DELETE PUT)&&POST
+      filter:
+        enabled: true
+
+    #资源配置
+    #resources:
+    #指定静态资源文件夹  默认为 resources  static  public   META-INF/resources   指定后默认路径失效
+    #static-locations: [ classpath:/static ]
+    #禁用静态资源
+    #add-mappings: false
+#开启自动配置报告  #true
+debug:
+  false
+
+#######user JRS303
+user:
+  name: zhazha
+  email: 2322535585@qq.com

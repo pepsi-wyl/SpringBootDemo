@@ -1,0 +1,9 @@
+搭建SpringBoot环境进行开发
+集成邮件功能完成登陆注册
+搭建Mybatis框架
+
+
+
+Spring Boot一个快速开发的脚手架。
+基于Spring Boot可以快速的开发单个微服务。约定大于配置！
+Spring Cloud 是基于Spring Boot实现的。

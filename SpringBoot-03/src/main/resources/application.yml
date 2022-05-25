@@ -1,0 +1,126 @@
+#服务器端口IP配置项目路径
+server:
+#  address: 127.0.0.1
+  port: 80
+  servlet:
+    context-path: /wyl
+
+#开启自动配置报告  #true
+debug:
+  false
+
+spring:
+  #国际化配置文件  绑定properties配置文件
+  messages:
+    encoding: UTF-8
+    basename: i18n.login
+  #配置数据源
+  datasource:
+    #基本数据参数配置
+    username: root
+    password: bsy8023.00
+    url: jdbc:mysql://localhost:3306/springboot?useSSL=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&rewriteBatchedStatements=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #数据源为 com.alibaba.druid   #默认数据源  HikariDataSource
+    type: com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper
+    druid:
+      #初始化时建立物理连接的个数
+      initial-size: 5
+      #最小连接池数量
+      min-idle: 5
+      #最大连接池数量
+      max-active: 20
+      #获取连接等待超时的时间  毫秒
+      max-wait: 60000
+      #闭空闲连接的检测时间间隔  毫秒
+      time-between-eviction-runs-millis: 60000
+      #连接的最小生存时间.连接保持空闲而不被驱逐的最小时间
+      min-evictable-idle-time-millis: 300000
+      #验证数据库服务可用性的sql.用来检测连接是否有效的sql
+      validation-query: SELECT 1 FROM DUAL
+      #申请连接时检测空闲时间，根据空闲时间再检测连接是否有效
+      test-while-idle: true
+      #申请连接时直接检测连接是否有效
+      test-on-return: false
+      #归还连接时检测连接是否有效
+      test-on-borrow: false
+      #开启PSCache
+      pool-prepared-statements: true
+      #设置PSCache值
+      max-pool-prepared-statement-per-connection-size: 20
+      #数据库服务宕机自动重连机制
+      break-after-acquire-failure: true
+      #连接出错后重试时间间隔
+      time-between-connect-error-millis: 300000
+      #异步初始化策略
+      async-init: true
+      #是否自动回收超时连接
+      remove-abandoned: true
+      #超时时间(以秒数为单位)
+      remove-abandoned-timeout: 1800
+      #事务超时时间
+      transaction-query-timeout: 6000
+
+      #配置监控统计拦截的filters，stat:监控统计、log4j：日志记录、wall：防御sql注入
+      filters: stat,wall,log4j
+      #打开mergeSql功能,慢SQL记录
+      connection-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+      #合并多个DruidDataSource的监控数据
+      use-global-data-source-stat: true
+
+      #WebStatFilter配置
+      web-stat-filter:
+        enabled: true
+        url-pattern: /*
+        exclusions: /druid/*,*.js,*.gif,*.jpg,*.bmp,*.png,*.css,*.ico
+        session-stat-enable: true
+        session-stat-max-count: 10
+        principal-session-name: session_name
+        principal-cookie-name: cookie_name
+      #StatViewServlet配置
+      stat-view-servlet:
+        enabled: true
+        #配置DruidStatViewServlet
+        url-pattern: /druid/*
+        #禁用HTML页面上的“Reset All”功能
+        reset-enable: false
+        #监控页面登录的用户名
+        login-username: 'zhazha'
+        #监控页面登录的密码
+        login-password: '000000'
+        #IP白名单(没有配置或者为空，则允许所有访问)
+        allow: 127.0.0.1,192.168.0.148
+        #IP黑名单 (存在共同时，deny优先于allow)
+        deny:
+      #Spring监控配置
+      aop-patterns: com.wyl.service.*
+
+#mybatis配置
+mybatis:
+  #配置Mapper.xml文件的位置
+  mapper-locations: classpath:mapper/*.xml
+  #绑定Mybatis.xml配置文件的位置
+  #config-location: classpath:mybatis-config.xml
+  configuration:
+    # log4j日志工厂
+    log-impl: org.apache.ibatis.logging.log4j.Log4jImpl
+    # 开启全局缓存 默认开启
+    cache-enabled: true
+    # 驼峰命名法转换
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.wyl.pojo
+
+#Spring配置
+#spring:
+#  #资源配置
+#  resources:
+#    #指定静态资源文件夹  默认为 resources  static  public   META-INF/resources   指定后默认路径失效
+#    static-locations: [ classpath:/resources,classpath:/static,classpath:/public,classpath:/META-INF/resources ]
+#
+#  #mvc配置
+#  mvc:
+#    #添加前缀 默认为/**
+#    static-path-pattern: /static/**
+
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wyl.mapper.EmployeeMapper">
+
+    <!--resultMap映射-->
+    <resultMap id="EmployeeDepartment" type="employee">
+        <result property="id" column="empId"/>
+        <result property="empNumber" column="empNumber"/>
+        <result property="name" column="name"/>
+        <result property="sex" column="sex"/>
+        <result property="email" column="email"/>
+        <result property="phoneNumber" column="phoneNumber"/>
+        <result property="birth" column="birth"/>
+        <result property="location" column="location"/>
+        <association property="department" javaType="department">
+            <!--做映射-->
+            <result property="id" column="dId"></result>
+            <result property="department" column="department"/>
+        </association>
+    </resultMap>
+
+    <!--查询所有员工信息-->
+    <select id="getEmployeeAll" resultMap="EmployeeDepartment">
+        select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+    </select>
+
+</mapper>

@@ -1,0 +1,1439 @@
+[DEBUG][21-12-02][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-02][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-02][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-12][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-18} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-19} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-20} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-21} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-22} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-23} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-24} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-25} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-26} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-27} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-28} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-29} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-30} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-31} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-32} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-33} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-34} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-35} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-36} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-37} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001,procId-38} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002,procId-39} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003,procId-40} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004,procId-41} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005,procId-42} connected
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001,procId-18} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002,procId-19} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003,procId-20} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004,procId-21} connected
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005,procId-22} connected
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25fd62b7] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} created. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: zhazha(String), 000000(String)
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [zhazha, 000000]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 68.2799 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 0
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25fd62b7]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@29ab944c] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: zhazha(String), 888888(String)
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [zhazha, 888888]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 1.3621 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} Header: [id, username, email, password, status]
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 0
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@29ab944c]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c86e4c8] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: zhazha(String), bsy8023.00(String)
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [zhazha, bsy8023.00]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 0.9059 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} Header: [id, username, email, password, status]
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} Result: [6, zhazha, 2322535585@qq.com, bsy8023.00, 1]
+[DEBUG][21-12-16][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c86e4c8]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4762c63d] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} created. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Types : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 8.0306 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50003} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50003} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50003} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50003} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4762c63d]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@634891dd] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Types : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 1.0262 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50004} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50004} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50004} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50004} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@634891dd]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@30c84e6d] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Types : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 0.7167 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@30c84e6d]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7171f49c] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][21-12-16][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@74b05878] will not be managed by Spring
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} Types : []
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 0.7158 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} open
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-16][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-16][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][21-12-16][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7171f49c]
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20000} closed
+[DEBUG][21-12-16][druid.sql.Statement]{conn-10005, pstmt-20001} closed
+[DEBUG][21-12-16][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-26][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ce7a4f] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006,procId-18} connected
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-26][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6f21e91f] will not be managed by Spring
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} created. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 1142401783@qq.com(String)
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [1142401783@qq.com]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 19.4192 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [count(1)]
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [0]
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ce7a4f]
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59f74e0] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-26][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6f21e91f] will not be managed by Spring
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} created. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: admin(String)
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : [admin]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} Types : [VARCHAR]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 0.6498 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} open
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Header: [count(1)]
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Result: [1]
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} closed
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59f74e0]
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5fdf41ce] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-26][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6f21e91f] will not be managed by Spring
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: admin1(String)
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : [admin1]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} Types : [VARCHAR]
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 0.6963 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} open
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} Header: [count(1)]
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} Result: [0]
+[DEBUG][21-12-26][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][21-12-26][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} closed
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][21-12-26][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5fdf41ce]
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][21-12-26][druid.sql.Statement]{conn-10006, pstmt-20001} closed
+[DEBUG][21-12-26][druid.sql.Connection]{conn-10006} closed
+[DEBUG][21-12-28][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6570e8e7] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006,procId-13} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-28][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6b114879] will not be managed by Spring
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} created. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: zhazha(String), bsy8023.00(String)
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [zhazha, bsy8023.00]
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 17.7526 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [6, zhazha, 2322535585@qq.com, bsy8023.00, 1]
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6570e8e7]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@369f8d5a] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-28][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6b114879] will not be managed by Spring
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} created. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : []
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} Types : []
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 4.7726 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} open
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} closed
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@369f8d5a]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8bff75] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-28][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6b114879] will not be managed by Spring
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==>  Preparing: select e.id empId, e.empNumber, e.name, e.sex, e.email, e.phoneNumber, e.birth, e.location, d.id dId, department from springboot.employee e, springboot.department d where e.departmentID = d.id;
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]==> Parameters: 
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : []
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} Types : []
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 1.2839 millis. select e.id empId,
+               e.empNumber,
+               e.name,
+               e.sex,
+               e.email,
+               e.phoneNumber,
+               e.birth,
+               e.location,
+               d.id dId,
+               department
+        from springboot.employee e,
+             springboot.department d
+        where e.departmentID = d.id;
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} open
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} Header: [id, empNumber, name, sex, email, phoneNumber, birth, location, id, department]
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} Result: [1, 00001, zhazha, 男, 2322535585@qq.com, 13673330837, 2001-01-17, 河南省安阳市, 1, 宿舍管理部]
+[DEBUG][21-12-28][com.wyl.mapper.EmployeeMapper.getEmployeeAll]<==      Total: 1
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50002} closed
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8bff75]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20001} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} closed
+[DEBUG][21-12-28][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][21-12-28][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10001,procId-14} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10002,procId-15} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10003,procId-16} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10004,procId-17} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10005,procId-18} connected
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3606e1e4] was not registered for synchronization because synchronization is not active
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10005} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10004} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10003} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10002} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10001} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006,procId-19} connected
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][21-12-28][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@534e0b61] will not be managed by Spring
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} created. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: admin(String)
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [admin]
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 7.873501 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [count(1)]
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [0]
+[DEBUG][21-12-28][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][21-12-28][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][21-12-28][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3606e1e4]
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][21-12-28][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][21-12-28][druid.sql.Connection]{conn-10006} closed
+[DEBUG][22-01-08][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-08][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001,procId-18} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002,procId-19} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003,procId-20} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004,procId-21} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005,procId-22} connected
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14b590cb] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006,procId-24} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-01-14][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@3a798786] will not be managed by Spring
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} created. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: bsy(String), 888888(String)
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [bsy, 888888]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 14.4588 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14b590cb]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7d42c05b] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-01-14][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@3a798786] will not be managed by Spring
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: bsy(String), 888888(String)
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [bsy, 888888]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 1.1278 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50001} open
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50001} Header: [id, username, email, password, status]
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50001} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50001} closed
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7d42c05b]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4711e7a8] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-01-14][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@3a798786] will not be managed by Spring
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: bsy(String), 888888(String)
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [bsy, 888888]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.797 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} open
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} Header: [id, username, email, password, status]
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} closed
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4711e7a8]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f57ff5c] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10006} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10007,procId-25} connected
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10007} pool-connect
+[DEBUG][22-01-14][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@4108349b] will not be managed by Spring
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} created. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: bsy(String), 888888(String)
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} Parameters : [bsy, 888888]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} Types : [VARCHAR, VARCHAR]
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} executed. 1.3126 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10007, pstmt-20001, rs-50003} open
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10007, pstmt-20001, rs-50003} Header: [id, username, email, password, status]
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10007, pstmt-20001, rs-50003} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-01-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 1
+[DEBUG][22-01-14][druid.sql.ResultSet]{conn-10007, pstmt-20001, rs-50003} closed
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} clearParameters. 
+[DEBUG][22-01-14][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f57ff5c]
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10007} pool-recycle
+[DEBUG][22-01-14][druid.sql.Statement]{conn-10007, pstmt-20001} closed
+[DEBUG][22-01-14][druid.sql.Connection]{conn-10007} closed
+[DEBUG][22-01-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-01-23][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63094717] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006,procId-18} connected
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-01-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6b1e9531] will not be managed by Spring
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} created. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 20.9529 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [count(1)]
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [0]
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63094717]
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a0637c] was not registered for synchronization because synchronization is not active
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-01-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6b1e9531] will not be managed by Spring
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} created. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : [2322535585@qq.com]
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 0.6973 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} open
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Header: [count(1)]
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Result: [1]
+[DEBUG][22-01-23][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-01-23][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} closed
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][22-01-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a0637c]
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][22-01-23][druid.sql.Statement]{conn-10006, pstmt-20001} closed
+[DEBUG][22-01-23][druid.sql.Connection]{conn-10006} closed
+[DEBUG][22-03-06][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-06][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-06][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-06][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-08][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-08][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-08][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-08][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4937289f] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} created. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 66.7895 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4937289f]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@46ea4e54] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 1.2881 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50001} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@46ea4e54]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@690642ea] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 0.9746 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50002} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@690642ea]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e23c144] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 1.1964 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50003} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50003} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50003} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50003} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e23c144]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4368fdee] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 0.7574 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50004} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50004} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50004} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50004} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4368fdee]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@a456f1d] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} created. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 44(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : [44]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 0.7334 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50005} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20001} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@a456f1d]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@680f9f36] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 44(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : [44]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 1.3812 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50006} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20001} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@680f9f36]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1717bcdb] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 44(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : [44]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 1.5716 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50007} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50007} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50007} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50007} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20001} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1717bcdb]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fe3b1ed] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-03-12][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@bb22214] will not be managed by Spring
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 0.5983 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50008} open
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50008} Header: [count(1)]
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50008} Result: [0]
+[DEBUG][22-03-12][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-12][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50008} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, stmt-20000} clearBatch. 
+[DEBUG][22-03-12][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fe3b1ed]
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20001} closed
+[DEBUG][22-03-12][druid.sql.Statement]{conn-10005, pstmt-20000} closed
+[DEBUG][22-03-12][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-connect
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-recycle
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-connect
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10001, stmt-20000} created
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10001, stmt-20000, rs-50000} query executed. 131.4342 millis. select * from springboot.user
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} open
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} Result: [1, admin, 2122535585@qq.com, 888888, 0]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} Result: [5, 杜旭嘉, 2041487752@qq.com, 999999, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} Result: [6, zhazha, 2322535585@qq.com, bsy8023.00, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10001, stmt-20000, rs-50000} closed
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10001, stmt-20000} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-recycle
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-connect
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-recycle
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002} pool-connect
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10002, stmt-20000} created
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10002, stmt-20000, rs-50000} query executed. 121.6694 millis. select * from springboot.user
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} open
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} Result: [1, admin, 2122535585@qq.com, 888888, 0]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} Result: [5, 杜旭嘉, 2041487752@qq.com, 999999, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} Result: [6, zhazha, 2322535585@qq.com, bsy8023.00, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} Result: [7, bsy, 2801534001@qq.com, 888888, 1]
+[DEBUG][22-03-13][druid.sql.ResultSet]{conn-10002, stmt-20000, rs-50000} closed
+[DEBUG][22-03-13][druid.sql.Statement]{conn-10002, stmt-20000} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002} pool-recycle
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001,procId-18} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-connect
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} pool-recycle
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10002,procId-19} connected
+[DEBUG][22-03-13][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-14][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-14][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14a60762] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10006,procId-18} connected
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-14][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6cab5dfc] will not be managed by Spring
+[DEBUG][22-03-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==>  Preparing: select * from springboot.user where username = ? and password = ?;
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} created. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-03-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]==> Parameters: pepsi-wyl(String), asdd(String)
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [pepsi-wyl, asdd]
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 18.0312 millis. select *
+        from springboot.user
+        where username = ?
+          and password = ?;
+[DEBUG][22-03-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][22-03-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [id, username, email, password, status]
+[DEBUG][22-03-14][com.wyl.mapper.UserMapper.getUserByUserNameAndPwd]<==      Total: 0
+[DEBUG][22-03-14][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-14][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14a60762]
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-14][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][22-03-14][druid.sql.Connection]{conn-10006} closed
+[DEBUG][22-03-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001,procId-8} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002,procId-9} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003,procId-10} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004,procId-11} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005,procId-12} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Department matches criteria [is assignable to Object]
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-03-18][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wyl.pojo.User matches criteria [is assignable to Object]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001,procId-13} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002,procId-14} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003,procId-15} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004,procId-16} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005,procId-17} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionFactoryBean]Parsed mapper file: 'file [G:\idea\SpringBoot\SpringBoot-03\target\classes\mapper\DepartmentMapper.xml]'
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionFactoryBean]Parsed mapper file: 'file [G:\idea\SpringBoot\SpringBoot-03\target\classes\mapper\EmployeeMapper.xml]'
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionFactoryBean]Parsed mapper file: 'file [G:\idea\SpringBoot\SpringBoot-03\target\classes\mapper\UserMapper.xml]'
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001,procId-18} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002,procId-19} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003,procId-20} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004,procId-21} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005,procId-22} connected
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47485ba] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006,procId-23} connected
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} created. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 20.1622 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50000} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47485ba]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7a2dab77] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} created. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: pepsi-wyl(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : [pepsi-wyl]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 0.7271 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} Result: [0]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50001} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20001} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7a2dab77]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f094165] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.8329 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50002} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f094165]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48868c39] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]==>  Preparing: select count(1) from springboot.user where username = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]==> Parameters: pepsi-wyl(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} Parameters : [pepsi-wyl]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} executed. 1.2424 millis. select count(1)
+        from springboot.user
+        where username = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50003} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50003} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50003} Result: [0]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.userIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20001, rs-50003} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20001} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48868c39]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c3d46d6] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.7909 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50004} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50004} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50004} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50004} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c3d46d6]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64a5b6a2] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.6204 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50005} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50005} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50005} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50005} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64a5b6a2]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73ff3646] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.8124 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50006} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50006} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50006} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50006} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@73ff3646]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@583e7f5c] was not registered for synchronization because synchronization is not active
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-connect
+[DEBUG][22-03-18][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@2b4472db] will not be managed by Spring
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==>  Preparing: select count(1) from springboot.user where email = ?;
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]==> Parameters: 2322535585@qq.com(String)
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Parameters : [2322535585@qq.com]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} Types : [VARCHAR]
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} executed. 0.5983 millis. select count(1)
+        from springboot.user
+        where email = ?;
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50007} open
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50007} Header: [count(1)]
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50007} Result: [1]
+[DEBUG][22-03-18][com.wyl.mapper.UserMapper.emailIsExit]<==      Total: 1
+[DEBUG][22-03-18][druid.sql.ResultSet]{conn-10006, pstmt-20000, rs-50007} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} clearParameters. 
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, stmt-20000} clearBatch. 
+[DEBUG][22-03-18][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@583e7f5c]
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} pool-recycle
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20001} closed
+[DEBUG][22-03-18][druid.sql.Statement]{conn-10006, pstmt-20000} closed
+[DEBUG][22-03-18][druid.sql.Connection]{conn-10006} closed

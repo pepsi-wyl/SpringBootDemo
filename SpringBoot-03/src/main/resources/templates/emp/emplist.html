@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>List</title>
+
+    <!-- Bootstrap core CSS -->
+    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link th:href="@{/css/dashboard.css}" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!--顶部导航栏-->
+<div th:insert="~{commons/commons::topbar}"/>
+
+<div class="container-fluid">
+    <div class="row">
+
+        <!--侧边栏-->
+        <div th:insert="~{commons/commons::sidebar(active='list.html')}"/>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+
+            <!--员工list-->
+            <h2><a class="btn btn-sm btn-success" th:href="@{/employee/toAddEmp}">添加员工</a> </h2>
+
+            <div class="table-responsive">
+                <table class="table table-striped table-sm">
+                    <thead>
+                    <tr>
+                        <th>员工编号</th>
+                        <th>姓名</th>
+                        <th>性别</th>
+                        <th>部门</th>
+                        <th>生日</th>
+                        <th>邮箱</th>
+                        <th>电话号码</th>
+                        <th>地址</th>
+                        <th>操作</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr th:each="employee:${employees}">
+                        <td th:text="${employee.getEmpNumber()}"></td>
+                        <td th:text="${employee.getName()}"></td>
+                        <td th:text="${employee.getSex()}"></td>
+                        <td th:text="${employee.getDepartment().getDepartment()}"></td>
+                        <td th:text="${#dates.format(employee.getBirth(), 'yyyy-MM-dd')}"></td>
+                        <td th:text="${employee.getEmail()}"></td>
+                        <td th:text="${employee.getPhoneNumber()}"></td>
+                        <td th:text="${employee.getLocation()}"></td>
+                        <td>
+                            <button class="btn btn-sm btn-primary">编辑</button>
+                            <button class="btn btn-sm btn-danger">删除</button>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+
+    </div>
+</div>
+
+<!-- Icons -->
+<script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+<script>
+    feather.replace();
+</script>
+
+</body>
+</html>

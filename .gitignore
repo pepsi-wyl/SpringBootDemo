@@ -1,0 +1,5 @@
+# Project exclude paths
+/SpringBoot-02/target/
+/SpringBoot-03/target/
+/SpringBoot-04/target/
+/SpringBoot-05-mail/target/
